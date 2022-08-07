@@ -1,3 +1,3 @@
 # Weather-Interview-Task
 
-This is interview Task and my first SwiftUI project.
+This is interview task and my first SwiftUI project.
